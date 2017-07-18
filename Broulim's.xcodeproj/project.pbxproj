@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					36E37A371F1E7FAD003A6792 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = DGL9Y7U9AY;
 						ProvisioningStyle = Automatic;
 					};
 					36E37A4B1F1E7FAE003A6792 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DGL9Y7U9AY;
 				INFOPLIST_FILE = "Broulim's/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Broulims.Broulim-s";
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DGL9Y7U9AY;
 				INFOPLIST_FILE = "Broulim's/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Broulims.Broulim-s";

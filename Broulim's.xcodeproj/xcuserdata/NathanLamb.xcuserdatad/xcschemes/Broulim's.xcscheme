@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "36E37A371F1E7FAD003A6792"
+               BuildableName = "Broulim&apos;s.app"
+               BlueprintName = "Broulim&apos;s"
+               ReferencedContainer = "container:Broulim&apos;s.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "36E37A4B1F1E7FAE003A6792"
+               BuildableName = "Broulim&apos;sTests.xctest"
+               BlueprintName = "Broulim&apos;sTests"
+               ReferencedContainer = "container:Broulim&apos;s.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "36E37A561F1E7FAE003A6792"
+               BuildableName = "Broulim&apos;sUITests.xctest"
+               BlueprintName = "Broulim&apos;sUITests"
+               ReferencedContainer = "container:Broulim&apos;s.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "36E37A371F1E7FAD003A6792"
+            BuildableName = "Broulim&apos;s.app"
+            BlueprintName = "Broulim&apos;s"
+            ReferencedContainer = "container:Broulim&apos;s.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "36E37A371F1E7FAD003A6792"
+            BuildableName = "Broulim&apos;s.app"
+            BlueprintName = "Broulim&apos;s"
+            ReferencedContainer = "container:Broulim&apos;s.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "36E37A371F1E7FAD003A6792"
+            BuildableName = "Broulim&apos;s.app"
+            BlueprintName = "Broulim&apos;s"
+            ReferencedContainer = "container:Broulim&apos;s.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
